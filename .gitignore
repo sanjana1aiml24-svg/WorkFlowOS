@@ -1,0 +1,17 @@
+venv/
+.env
+credentials.json
+token.json
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+execution_log.json
+processed_messages.json
+gmail_seen.json
+automation_state.json
+semantic_activity.json
+pattern_suggestion.json
+activity_log.json
+current_run.json
